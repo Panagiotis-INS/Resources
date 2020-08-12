@@ -1,0 +1,15 @@
+Find Volatility in Github(official Github page):
+https://github.com/volatilityfoundation/volatility
+For Linux:
+In Debian based distros(such as Ubuntu,Kali Linux,Mint and more) we use:
+    $ sudo apt-get install volatility
+For Mac OS:
+    $ brew install volatility
+For Windows:
+    Install volatility.exe
+     or install python2 and use 
+     $ cd volatility
+     $ python volatility.py
+You can always use:
+$ git clone https://github.com/volatilityfoundation/volatility.git
+and install volatility via terminal
