@@ -17,3 +17,5 @@
 - PicoCTF<br>
 
 - hack.knightsquad.org<br>
+
+- FlareOn CTF
