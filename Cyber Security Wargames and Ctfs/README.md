@@ -6,3 +6,5 @@
 -Securinets<br>
 -Hacktomber<br>
 -IO smash the stack<br>
+-PicoCTF<br>
+-hack.knightsquad.org<br>
