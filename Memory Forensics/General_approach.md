@@ -32,7 +32,8 @@ Types of files and how to work around them:<br>
   Yes these files are especially DANGEROUS and SHOULD NEVER BE OPENED with Microsoft office on a MAIN WINDOWS system<br>
   These files as mentioned can store and run macros<br>
   Macros are VB and VBS scripts that can do whatever VB and VBS does combined with shell or even powershell commands<br>
-  We work with these files on Linux with Libre office and analyze them with <b>Viper Monkey</b> <br>
+  We work with these files on Linux with Libre office and analyze them with <b>Viper Monkey</b><br>
+  After the analysis we deobfuscate them and find the usage of them and find the payload or the exploitation method that the attacker used
 3. <b>ISO and general Disk Images</b>  :We usually mount them and search the files inside them or use
 
 ```
@@ -41,3 +42,4 @@ testdisk
 
 If we think that some important files are deleted and recover them.<br>
 
+4. <b>PCAP and PCAPNG</b>:These files are the heart of the Forensic challenges
