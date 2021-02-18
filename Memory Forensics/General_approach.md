@@ -25,7 +25,7 @@ hexedit or GHex
 
 <br>
 Types of files and how to work around them:<br>
-1. ```mem and vmem ``` files:<br>
+1. ``` mem and vmem ``` files:<br>
   These files are memory or virtual memory files (memory dumps of a system) and work with them with Volatility,Redline,Recall<br>
   # NOTE: The file command will #
 2. ```doc,docx``` or ```other Microsoft office files that can store and run macros``` :<br>
