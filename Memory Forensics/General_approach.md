@@ -33,7 +33,7 @@ Types of files and how to work around them:<br>
   These files as mentioned can store and run macros<br>
   Macros are VB and VBS scripts that can do whatever VB and VBS does combined with shell or even powershell commands<br>
   We work with these files on Linux with Libre office and analyze them with ```Viper Monkey``` <br>
-3. ``` ISO and general Disk Images ``` :We usually mount them and search the files inside them or use
+3. ```` ISO and general Disk Images ```` :We usually mount them and search the files inside them or use
 
 ```
 testdisk
