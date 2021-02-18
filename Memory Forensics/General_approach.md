@@ -29,7 +29,7 @@ hexedit or GHex
 Types of files and how to work around them:<br>
 1. ``` mem and vmem ``` files:<br>
   These files are memory or virtual memory files (memory dumps of a system) and work with them with Volatility,Redline,Recall<br>
-  # NOTE: The file command will #
+  # NOTE: The file command will # <br>
 2. ```doc,docx``` or ```other Microsoft office files that can store and run macros``` :<br>
   Yes these files are especially DANGEROUS and SHOULD NEVER BE OPENED with Microsoft office on a MAIN WINDOWS system<br>
   These files as mentioned can store and run macros<br>
