@@ -14,7 +14,11 @@ In order to see what services the machine runs<br>
 -- enum4linux -a <machine ip>
 
 - Apache Tomcat:<br>
-- - Bad/Default/Common credentials there is areally good chance that this type of app uses default creds found on 
+- - Bad/Default/Common credentials there is areally good chance that this type of app uses default creds found here:
+
+```
+https://github.com/Panagiotis-INS/Resources/blob/master/Wordlists_and_default_creds/tomcat-betterdefaultpasslist.txt
+```
 
 
 # Figurring out What exploit to use #<br>
