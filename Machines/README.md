@@ -10,8 +10,12 @@ In order to see what services the machine runs<br>
 - - gobuster<br>
 - - wfuuz<br>
 
--Samba:<br>
+- Samba:<br>
 -- enum4linux -a <machine ip>
+
+- Apache Tomcat:<br>
+- - Bad/Default/Common credentials there is areally good chance that this type of app uses default creds found on 
+
 
 # Figurring out What exploit to use #<br>
 
