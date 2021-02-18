@@ -3,8 +3,8 @@
 nmap -sV -sC <machine ip><br>
 In order to see what services the machine runs<br>
 
-# Enumeration # 
-:
+# Enumeration: # 
+
 
 - HTTP service:<br>
 - - gobuster<br>
