@@ -19,7 +19,7 @@ In order to see what services the machine runs<br>
 ```
 https://github.com/Panagiotis-INS/Resources/blob/master/Wordlists_and_default_creds/tomcat-betterdefaultpasslist.txt
 ```
-
+Also try accessing ip/manager and Create your WAR file with msfvenom and it's java/jsp components
 
 # Figurring out What exploit to use #<br>
 
