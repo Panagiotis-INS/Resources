@@ -12,7 +12,7 @@ file
 command in order to see what filetype we(actually) have because sometimes file extensions can 'lie'<br>
 After a good google search about the file we can start working on it<br>
 <h2>Secondly:</h2>
-We try to see if the file is damaged or destroyed by looking at a ``` hexdump ``` and with the 
+We try to see if the file is damaged or destroyed by looking at a # hexdump # and with the 
 
 ```
 xxd
